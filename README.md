@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ... developing a portfolio..
+
+👯 I’m looking to collaborate on ... on robotics ros related projects
+
+📫 How to reach me: ... jamespmnayak@gmail.com
+
+
+
+
+
 <!--
 **jamesjamal/jamesjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
